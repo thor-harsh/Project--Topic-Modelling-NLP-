@@ -2,8 +2,7 @@
 
 <table>
   
-**In this project we will be working with a dataset of over 400,000 quora questions that have no labeled cateogry, and attempting to find 20 cateogries to assign these questions to. The .csv file of these text questions is attached above,
-We'll be grouping different reviews from questions from this csv file to various topics using NMF(Non-Matrix-Factorization) in Natural Language Processing.** <br></br>
+**In this project we will be working with a dataset of over 400,000 quora questions that have no labeled cateogry, and attempting to find 20 cateogries to assign these questions to. The .csv file of these text questions is attached above. We'll be grouping different reviews from questions from this csv file to various topics using NMF(Non-Matrix-Factorization) in Natural Language Processing.** <br></br>
 
 We will perform three tasks to perform the final grouping of different reviews on topics:<br></br>
 
